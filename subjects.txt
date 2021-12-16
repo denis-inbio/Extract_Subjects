@@ -1,0 +1,40 @@
+1. Algoritmul Midpoint pentru linie
+2. Algoritmul Midpoint pentru linie folosind "double step"
+3. Algoritmul Midpoint pentru linie cu opțiune pentru grosimea liniei
+4. Desenarea unui triunghi folosind algoritmul Midpoint pentru liniile triunghiului
+5. Desenarea unui dreptunghi (pătratul fiind un caz particular) folosind algoritmul Midpoint pentru liniile dreptunghiului
+6. Desenarea unui poligon cu mai mult de 4 laturi folosind algoritmul Midpoint pentru liniile poligonului
+7. Desenarea unui cerc folosind simetria pe 8 căi
+8. Desenarea unei elipse folosind simetria pe 4 căi
+9. Algoritmul general de desenare a unei elipse, unde cercul este un caz particular, folosind simetria pe 4 căi
+10. 
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. 
+(?) 23. Hașurarea (asta ce implică ? gradient sau linii paralele la un unghi dat ?) unui triunghi. Calculul intersecțiilor (what ?)
+(?) 24. Hașurarea (asta ce implică ? gradient sau linii paralele la un unghi dat ?) unui dreptunghi. Calculul intersecțiilor (what ?)
+25. Desenarea umplerii (fill) unui triunghi cu o anumită culoare.
+26. Desenarea umplerii (fill) unui dreptunghi cu o anumită culoare.
+(!) 27. Desenarea umplerii (fill) unui cerc / elipsă (?) cu o anumită culoare.
+28. Calculul intersecției unui pătrat și a unui triunghi. [desenarea grafică nu este necesară ?]
+29. Calculul intersecției unui dreptunghi și a unui triunghi. [desenarea grafică nu este necesară ?]
+30. Calculul intersecției unui dreptunghi și a unui pătrat. [desenarea grafică nu este necesară ?]
+31. Calculul intersecției unui cerc și a unui triunghi [desenarea grafică nu este necesară ?]
+32. Calculul intersecției unui cerc și a unui dreptunghi. [desenarea grafică nu este necesară ?]
+33. Calculul intersecției unei elipse și a unui triunghi. [desenarea grafică nu este necesară ?]
+34. Calculul intersecției unei elipse și a unui dreptunghi. [desenarea grafică nu este necesară ?]
+35. Calculul intersecției unei parabole și a unui dreptunghi. Desenarea curbei, a figurii și a punctului de intersecție (dacă acesta există) [există mereu ?]
+36. Calculul intersecției unei hiperbole și a unui dreptunghi. Desenarea curbei, a figurii și a punctului de intersecție (dacă acesta există) [există mereu ?]
+37. Calculul intersecției unei parabole și a unei hiperbole. Desenarea curbelor și a punctului de intersecție (dacă acesta există) [există mereu ?]
+38. Desenarea generală a unei curbe cubice. (cubic spline I asume ?)
+39. Desenarea unei curbe Bezier cuadratice determinată de trei puncte de control
+40. Desenarea unei curbe Bezier cubice determinată de patru puncte de control

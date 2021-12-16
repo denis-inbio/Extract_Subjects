@@ -1,0 +1,9 @@
+1. Elevul Cap de tabel {1}
+Aaaaa Bbbbbb {5}
+Ccccc Ccccccccccc {7}
+4.Ccccc CCcccCCCccc {12}
+0.ccccc Ccccccccccc {20}
+1.Ccccc ccccccccccc {31}
+Anca Maria     -Elena (12)
+Irimie-  Beatrice     Janina [22]
+Deliac-Abrudan Mihai <16>
